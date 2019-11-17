@@ -35,6 +35,15 @@ Para correr la aplicación con las gemas especificadas en el `Gemfile` corremos 
 bundle exec ruby index.js
 ```
 
+## Retos del curso
+
+https://github.com/simon0191/platzi-curso-ruby/tree/330ae72757e5ac4144481e728ba53f4c7c11319d/retos
+
 ## Herramientas
 
 - [Gemas sugeridas (Ruby toobox)](https://www.ruby-toolbox.com/)
+
+## Profundizar
+
+- Threads
+- Retos del curso
